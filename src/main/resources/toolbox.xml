@@ -1,0 +1,7 @@
+<toolbox>
+    <tool>
+    <key>date</key><!-- 指定变量：Velocity使用变量 -->
+    <scope>application</scope><!-- 指定范围：域范围-->
+    <class>org.apache.velocity.tools.generic.DateTool</class><!-- 指定类-->
+</tool>
+</toolbox>
